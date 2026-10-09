@@ -1,0 +1,76 @@
+{
+  "titulo": "Lista de Material Escolar",
+  "itens": [
+    {
+      "quantidade": 3,
+      "item": "rolos de fita crepe",
+      "confianca": 99.79
+    },
+    {
+      "quantidade": 1,
+      "item": "bloco de canson A4",
+      "confianca": 99.53
+    },
+    {
+      "quantidade": 1,
+      "item": "fita adesiva",
+      "confianca": 99.43
+    },
+    {
+      "quantidade": 5,
+      "item": "folhas de cartolina",
+      "confianca": 99.74
+    },
+    {
+      "quantidade": 3,
+      "item": "placas de EVA",
+      "confianca": 99.81
+    },
+    {
+      "quantidade": 1,
+      "item": "EVA com gliter",
+      "confianca": 99.52
+    },
+    {
+      "quantidade": 5,
+      "item": "papel colorset",
+      "confianca": 99.84
+    },
+    {
+      "quantidade": 1,
+      "item": "caneta permanente",
+      "confianca": 99.43
+    },
+    {
+      "quantidade": 1,
+      "item": "pacote palito de sdrvete",
+      "confianca": 91.18
+    },
+    {
+      "quantidade": 4,
+      "item": "papel cartão",
+      "confianca": 99.59
+    },
+    {
+      "quantidade": 1,
+      "item": "kit leoni n. 1",
+      "confianca": 98.74
+    },
+    {
+      "quantidade": 1,
+      "item": "dicionário",
+      "confianca": 98.67
+    },
+    {
+      "quantidade": 1,
+      "item": "pincel n.14",
+      "confianca": 98.81
+    },
+    {
+      "quantidade": 1,
+      "item": "pasta 20mm",
+      "confianca": 99.34
+    }
+  ],
+  "nao_reconhecidas": []
+}
